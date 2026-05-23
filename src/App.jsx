@@ -30,7 +30,7 @@ const App = () => {
   );
 
   if (userdata.length > 0) {
-    printUserData = userdata.map(function (elem, idx) {
+    printUserData = userdata.map(function (elem) {
       return (
         <div key={elem.id}>
           <Card elem={elem} />

@@ -3,9 +3,8 @@ import React from "react";
 const Card = (props) => {
   return (
     <div>
-      <a href={props.elem.url} target="_blank">
+      <a href={props.elem.url} target="_blank" rel="noopener noreferrer">
         <div
-          div
           className="
 h-50
 w-55
@@ -39,6 +38,7 @@ hover:scale-115
             alt={props.elem.author}
           />
         </div>
+
         <h2
           className="
 font-semibold
