@@ -24,8 +24,24 @@ const App = () => {
   );
 
   let printUserData = (
-    <div className="flex justify-center items-center w-full min-h-[50vh]">
-      <h3 className="text-gray-500 text-2xl font-semibold">Loading...</h3>
+    <div
+      className="
+    flex 
+    justify-center 
+    items-center 
+    w-full 
+    min-h-[50vh]
+    "
+    >
+      <h3
+        className="
+      text-gray-500 
+      text-2xl 
+      font-semibold
+      "
+      >
+        Loading...
+      </h3>
     </div>
   );
 
