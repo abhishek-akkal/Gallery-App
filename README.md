@@ -10,6 +10,8 @@ Users can explore images, move between pages, and enjoy interactive hover effect
 
 ---
 
+##
+
 ## ✨ Features
 
 - 📷 Image fetching using API
