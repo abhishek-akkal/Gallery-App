@@ -12,7 +12,7 @@ Users can explore images, move between pages, and enjoy interactive hover effect
 
 ## 📸 Preview
 
-(Watch Gallery App Demo)[]
+(Watch Gallery App Demo)[https://www.linkedin.com/posts/abhishek-akkal-0a0ab62b2_reactjs-webdevelopment-frontenddevelopment-activity-7463994396443582465-HkHL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtE-_gB_Calzo0B_hiKlaIm_F6R5PuI0mk]
 
 ## ✨ Features
 
