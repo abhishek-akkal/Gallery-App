@@ -12,7 +12,7 @@ Users can explore images, move between pages, and enjoy interactive hover effect
 
 ## 📸 Preview
 
-(Watch Gallery App)
+(Watch Gallery App Demo)
 
 ## ✨ Features
 
