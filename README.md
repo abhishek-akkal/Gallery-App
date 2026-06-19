@@ -10,7 +10,7 @@ Users can explore images, move between pages, and enjoy interactive hover effect
 
 ---
 
-## 📸
+## 📸 Pre
 
 ## ✨ Features
 
