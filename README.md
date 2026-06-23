@@ -56,5 +56,3 @@ src
 # 👨‍💻 Author
 
 Abhishek Akkal
-
----
